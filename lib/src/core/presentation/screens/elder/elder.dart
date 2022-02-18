@@ -1,0 +1,11 @@
+export 'bloc/bloc.dart';
+export 'bloc/event.dart';
+export 'bloc/state.dart';
+export 'view/elder.dart';
+export 'view/screens/elder_content_life.dart';
+export 'view/screens/elder_content_prayer.dart';
+export 'view/screens/elder_content_quotes.dart';
+export 'view/screens/elder_content_works.dart';
+export 'view/widget/app_bar.dart';
+export 'view/widget/quotes_list.dart';
+export 'view/widget/works_list.dart';
